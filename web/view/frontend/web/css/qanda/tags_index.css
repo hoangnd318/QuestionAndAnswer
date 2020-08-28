@@ -1,0 +1,41 @@
+.article-post{
+    padding-bottom: 0;
+    border-bottom: none;
+    margin-bottom: 0;
+    margin: 0 -30px 30px;
+    padding: 0 30px 30px;
+    position: relative;
+}
+.col4 {
+    width: 33.33333333%;
+    position: relative;
+    min-height: 1px;
+    float: left;
+}
+.tag-sections{
+    border-radius: 2px;
+    padding: 15px;
+    border: 1px solid #e1e3e3;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.tag-counter{
+    color: #7c7f85;
+    font-size: 11px;
+}
+.tagcloud a{
+    color: #7c7f85;
+    border-radius: 2px;
+    font-size: 11px !important;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    display: block;
+    float: left;
+    padding: 0 6px;
+    border: 1px solid #e1e3e3;
+}
+.tagcloud a:hover{
+    border-color: #2d6ff7;
+    background-color: #2d6ff7;
+    color: #FFF;
+}

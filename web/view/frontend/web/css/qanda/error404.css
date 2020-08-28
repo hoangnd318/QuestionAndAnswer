@@ -1,0 +1,14 @@
+.no-results{
+    text-align: center;
+}
+.no-results > h2{
+    color: #272930;
+    font-size: 250px;
+    line-height: 200px;
+    margin-bottom: 25px;
+}
+.no-results > h3{
+    color: #26333b;
+    font-size: 41px;
+    line-height: 50px;
+}

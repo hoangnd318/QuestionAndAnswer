@@ -1,0 +1,70 @@
+.user-head-area{
+    margin-bottom: 15px;
+}
+.user-area{
+    text-align: center;
+}
+.user-stats{
+    overflow: hidden;
+    margin: 60px -30px 30px;
+    padding: 0 30px 30px;
+    border-bottom: 1px solid #e1e3e3;
+}
+.user-stats > ul{
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style: none;
+    padding: 0;
+}
+.user-stats > ul li{
+    width: 25%;
+    position: relative;
+    min-height: 1px;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.user-stats > ul > li > div{
+    background-color: #FFF;
+    border-radius: 2px;
+    width: 100%;
+    border: 1px solid #e1e3e3;
+    padding: 10px;
+    position: relative;
+}
+.user-stats > ul > li > div > div{
+    color: #7c7f85;
+    overflow: hidden;
+    font-size: 12px;
+}
+.user-stats > ul > li > div > div span{
+    color: #272930;
+    width: 100%;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 700;
+}
+.user-stats > ul > li > div > div h4{
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 22px;
+    margin-bottom: 0;
+}
+.user-stats > ul > li > div > span{
+    float: left;
+    font-size: 18px;
+    margin-right: 25px;
+    margin-top: 20px;
+}
+.user-questions > div > span{
+    color: #2d6ff7;
+}
+.user-answers > div > span{
+    color: #f05555;
+}
+.user-best-answers > div > span{
+    color: #1fae5b;
+}
+.user-points > div > span {
+    color: #ff6935;
+}
